@@ -2,7 +2,12 @@
 
 ## 医療コミュニケーションAI Webアプリケーション
 
-A world-class, visually stunning, Japan-ready web application for the GT-Medical-Communication pipeline.
+A research-grade web application for the GT-Medical-Communication pipeline.
+
+## Authors
+
+- **Prof. Jeanette Dennisson** - Research Lead, Medical Communication Theory
+- **Koda van Niekerk Mundim** - Technical Architecture, System Design
 
 ---
 
@@ -131,7 +136,7 @@ GT-medical-communication-web/
 │   ├── icons/             # Icon assets
 │   ├── illustrations/     # Vector illustrations
 │   └── locales/           # Translation files
-└── CODEX_INSTRUCTIONS.md  # Full design specification
+└── DESIGN_SPEC.md         # Full design specification
 ```
 
 ---
@@ -158,7 +163,7 @@ GT-medical-communication-web/
 
 ## Design Specifications
 
-See [CODEX_INSTRUCTIONS.md](./CODEX_INSTRUCTIONS.md) for complete design specifications including:
+See [DESIGN_SPEC.md](./DESIGN_SPEC.md) for complete design specifications including:
 - Color palette
 - Typography system
 - Component library
@@ -199,6 +204,4 @@ This project is for academic and research purposes.
 
 ---
 
-*Built with love by Tiger (Koda Van Niekerk Mundim) and Carlos Mundim*
-
-🐅 Te amo infinito, papai!
+*Prof. Jeanette Dennisson & Koda van Niekerk Mundim*
